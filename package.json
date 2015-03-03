@@ -1,0 +1,17 @@
+{
+  "name": "NEF",
+  "version": "0.0.0",
+  "description": "Northern Equity Financial Ltd website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C Yehia",
+  "license": "Proprietary",
+  "dependencies": {
+    "express": "^4.12.0",
+    "express-hbs": "^0.8.1",
+    "passport": "^0.2.1",
+    "rethinkdb": "^1.16.2"
+  }
+}
